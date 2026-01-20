@@ -1,4 +1,4 @@
-# Ovesio - Ecommerce Intelligence for PrestaShop 8.x
+# Ovesio - Ecommerce Intelligence Module for PrestaShop 8.x
 **Ovesio - Ecommerce Intelligence** empowers your PrestaShop store with advanced AI-driven insights, stock management forecasting, and strategic consulting. This module generates secure data feeds for your products and orders, allowing the Ovesio platform to analyze your business performance in real-time.
 
 ## Features
@@ -34,7 +34,7 @@ Connect your store to Ovesio to unlock powerful capabilities:
 
 ## Installation
 
-1.  **Download:** Download the zip archive called `ovesio_ecommerce.zip` from the [GitHub repository](https://github.com/ovesio/ovesio-ecommerce-prestashop-8.x/releases) section releases.
+1.  **Download** the latest version of `ovesio_ecommerce.zip` from the [Releases](https://github.com/ovesio/ecommerce-intelligence-prestashop-8.x-module/releases) section.
 2.  **Upload:**
     *   Log in to your PrestaShop Admin Panel (Back Office).
     *   Navigate to **Improve** > **Modules** > **Module Manager**.
