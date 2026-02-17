@@ -2,7 +2,7 @@
 <module>
   <name>ovesio_ecommerce</name>
   <displayName><![CDATA[Ovesio - Ecommerce Intelligence]]></displayName>
-  <version><![CDATA[1.0.0]]></version>
+  <version><![CDATA[1.0.1]]></version>
   <description><![CDATA[Empowers your store with advanced AI-driven insights, stock management forecasting, and strategic consulting.]]></description>
   <author><![CDATA[Ovesio]]></author>
   <tab><![CDATA[administration]]></tab>

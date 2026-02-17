@@ -67,7 +67,7 @@ When you install this module, a unique **Security Hash** is automatically genera
 
 ## Support
 
-This module is developed and maintained by Aweb Design SRL for Ovesio.com. For documentation and API references, visit [https://ovesio.com/docs](https://ovesio.com/docs).
+This module is developed and maintained by Aweb Design SRL for Ovesio.com. For documentation and API references, visit [https://docs.ovesio.com](https://docs.ovesio.com).
 
 For technical support or bug reports, please contact Ovesio support.
 
